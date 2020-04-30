@@ -1,0 +1,1 @@
+# Running CoreOS with Vagrant
